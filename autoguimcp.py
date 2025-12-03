@@ -33,7 +33,7 @@ async def main():
             model="gpt-4.1-mini",  # vision-capable
         )
 
-        screenshot_path = Path("manager_home.png")
+        screenshot_path = Path("squad.png")
         if not screenshot_path.exists():
             raise FileNotFoundError(f"Screenshot not found: {screenshot_path}")
 
@@ -51,12 +51,17 @@ async def main():
                 {
                     "role": "user",
                     "content": [
-                        {"type": "input_text", "text": "Click on the 'Tactics' button in this screenshot."},
+                        {"type": "input_text", "text": "return the coordinates of where Victor Valdes' name is located in the image"},
                         {"type": "input_image", "file_id": uploaded_file.id},
                     ],
                 }
             ],
         )
+
+        # result = await Runner.run(
+        #     coordinator,
+        #     "Take a screenshot ",
+        # )
 
         print("\n✅ Final Action:", result.final_output)
 
