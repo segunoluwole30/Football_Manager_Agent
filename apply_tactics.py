@@ -36,13 +36,15 @@ def apply_preset_tactic(preset_key: str, formation_key: str):
     print(f"[Tactics] Changing to preset: {preset_key}, formation: {formation_key}")
 
     # Step 1: Click existing tactic slot
-    click("tactics", "existing_tactic_slot", delay=1)
+    click("tactics", "existing_tactic_slot", delay=2)
+
+    hover("presets_menu", "open_presets", delay=1)
 
     # Step 2: Hover over preset category
-    hover("presets_menu", preset_key, delay=1)
+    hover("presets_menu", preset_key, delay=2)
 
     # Step 3: Click on formation inside that preset
-    click("presets_menu", formation_key, delay=1)
+    click("presets_menu", formation_key, delay=2)
 
 
 def apply_mentality(mentality_key: str):
