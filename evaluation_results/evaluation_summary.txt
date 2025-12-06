@@ -1,0 +1,26 @@
+=== 📊 TACTICAL EVALUATION REPORT ===
+Data Source: evaluation
+Matches Compared: 5
+
+[🏆 POINTS COMPARISON]
+Agent: 8 pts
+User:  13 pts
+Diff:  -5 pts
+
+[⚽ GOALS PER MATCH]
+Agent: 0.80
+User:  2.40
+Effect Size (Cohen's d): -1.21 (Large)
+
+[📈 EXPECTED GOALS (xG)]
+Agent: 1.93
+User:  1.91
+
+[🆚 HEAD-TO-HEAD RESULTS]
+Match                          | A_Res U_Res | A_G U_G
+------------------------------------------------------------
+R. Madrid v Barcelona          | D     W     | 1   3  
+Vigo v R. Madrid               | D     W     | 0   1  
+At. Madrid v R. Madrid         | W     W     | 2   2  
+Barcelona v R. Madrid          | L     W     | 0   5  
+Espanyol v R. Madrid           | W     D     | 1   1  

@@ -1,0 +1,6 @@
+match,goals_for,goals_against,xg_for,xg_against,shots_for,shots_for_on_target,shots_against,shots_against_on_target,possession,result,formation,mentality, match_type
+R. Madrid v Barcelona, 3, 0, 2.87, 0.27, 15, 10, 4, 0, 31, W, custom_wp_433_dm_wide, balanced, league
+Vigo v R. Madrid, 1, 0, 0.68, 0.55, 9, 7, 3, 1, 39, W, custom_wp_433_dm_wide, balanced, league
+At. Madrid v R. Madrid, 2, 1, 2.25, 2.51, 14, 6, 16, 4, 45, W, custom_wp_433_dm_wide, attacking, cup
+Barcelona v R. Madrid, 5, 2, 2.52, 2.33, 22, 10, 12, 4, 33, W, custom_wp_433_dm_wide, cautious, cup
+Espanyol v R. Madrid, 1, 1, 1.21, 1.12, 10, 4, 10, 5, 40, D, custom_wp_433_dm_wide, cautious, league
