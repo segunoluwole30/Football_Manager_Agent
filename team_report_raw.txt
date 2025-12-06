@@ -1,0 +1,577 @@
+Here’s a structured, concise squad report for your Football Manager team, summarizing available information by player as requested. Since these are overview screenshots, I'll note summary role/attribute insights and highlight any specific players or stats called out in your data:
+
+---
+
+### Iker Casillas
+- **Position:** Goalkeeper
+- **Key Attributes:** Reflexes, Throwing, Anticipation
+- **Strengths:** High reflexes; good distribution by throwing; strong anticipation; highest caps (154).
+- **Weaknesses:** Not specified.
+- **Notes:** Oldest player (32 years, 327 days). Club legend and team leader.
+
+---
+
+### Diego López
+- **Position:** Goalkeeper
+- **Key Attributes:** Height (6'5"), Heading (general squad strength), Reflexes (general for keepers)
+- **Strengths:** Tallest player and physically dominant in the box.
+- **Weaknesses:** Not specified.
+- **Notes:** Heaviest player (196 lbs).
+
+---
+
+### Dani Carvajal
+- **Position:** Right-back
+- **Key Attributes:** Not specified directly, but defensive and technical traits implied.
+- **Strengths:** Not specified individually.
+- **Weaknesses:** Currently out of form (average rating 6.56 in last 5 games).
+- **Notes:** Shortest player in squad (5'8").
+
+---
+
+### Raphaël Varane
+- **Position:** Centre-back
+- **Key Attributes:** Young age; not specified directly.
+- **Strengths:** Youngest first-team player (20 years, 352 days).
+- **Weaknesses:** Not specified.
+- **Notes:** Likely considered good for future development.
+
+---
+
+### Luka Modric
+- **Position:** Midfielder
+- **Key Attributes:** Passing, Vision, Balance, Agility
+- **Strengths:** Lightest player (143 lbs); technical skill (passing, vision); agility; balance.
+- **Weaknesses:** Not specified.
+- **Notes:** Creative force in midfield.
+
+---
+
+### Cristiano Ronaldo
+- **Position:** Attacker
+- **Key Attributes:** Goalscoring, Heading, Pace, Dribbling, Flair
+- **Strengths:** Top goalscorer (32 goals, leads competition); high pace; good dribbler; flair; best earning player.
+- **Weaknesses:** Not specified.
+- **Notes:** Key attacking player.
+
+---
+
+### Gareth Bale
+- **Position:** Attacker (likely wing/forward)
+- **Key Attributes:** Pace, Dribbling, Crossing (general squad strengths)
+- **Strengths:** Top earner; likely among quick and skillful players.
+- **Weaknesses:** Not specified.
+- **Notes:** High salary indicates importance to squad.
+
+---
+
+### Ángel Di María
+- **Position:** Winger/Attacking Midfielder
+- **Key Attributes:** Current form, Crossing, Passing
+- **Strengths:** In fantastic form (average rating 7.90 last 5 matches); technical abilities; assists/goals likely.
+- **Weaknesses:** Not specified.
+- **Notes:** Key contributor in attack.
+
+---
+
+### Marcelo
+- **Position:** Left-back
+- **Key Attributes:** Defense depth, Long Throws
+- **Strengths:** One of six good left-back options; long throw capability.
+- **Weaknesses:** Not specified.
+- **Notes:** Noted for providing extra defensive quality.
+
+---
+
+### Jesús
+- **Position:** Not specified (likely youth/reserve)
+- **Key Attributes:** Not specified
+- **Strengths:** Lowest earner ($199K/year); squad depth.
+- **Weaknesses:** Not specified.
+- **Notes:** Likely youth or backup.
+
+---
+
+### Talented Youth Prospects
+(Rubén Sobrino, Derik, Omar Mascarell, José Rodríguez, Sergio Aguza, Antonio Rozzi)
+- **Position:** Various (Youth)
+- **Key Attributes:** Not directly listed; prospects.
+- **Strengths:** Squad noted for having several talented youth prospects for future development.
+- **Weaknesses:** Not specified.
+- **Notes:** Long-term club assets.
+
+---
+
+## **Squad-Wide Notes**
+- **Key Strengths:**
+    - *Physicals*: Stamina, Natural Fitness, Pace, Agility, Balance.
+    - *Technical*: Free Kicks, Crossing, Passing, Tackling, First Touch, Technique, Flair, Corners, Long Throws.
+    - *Mental*: Decisions, Anticipation, Vision, Teamwork.
+    - *Goalkeeping*: Reflexes, Throwing, Low eccentricity.
+    - *Form/Performance*: Best player forms (Di María), Ronaldo’s goal tally.
+    - *Youth*: Good crop of young prospects.
+
+- **Key Weaknesses:**
+    - *Budget*: Wage bill is excessive; limited options for adjustment.
+    - *Depth*: Lack of quality outside first team.
+    - *Set-Piece Defending*: Poor record at defending near-post set pieces (60% success, below league average).
+    - *Goals Against*: High ratio of goals conceded inside penalty area (12/32 recent goals).
+    - *Individual Form*: Carvajal struggling for form.
+
+---
+
+**End of Report**
+
+If you’d like further breakdowns by position group (defense, midfield, attack) or need a focus on youth/reserves, let me know!
+
+Certainly! Here’s a structured, player-by-player summary based on the squad report screenshots. Note: Key individual players highlighted in reports are Sergio Ramos, Iker Casillas, and Dani Carvajal.
+
+---
+
+**IKER CASILLAS**  
+- Position: Goalkeeper  
+- Key Attributes: Shot-stopping, command of area, aerial reach, one-on-ones, rushing out  
+- Strengths: Excellent at goalkeeping, good command of penalty area, strong in one-on-one situations, good aerial reach, confident when rushing out  
+- Weaknesses: None specifically noted  
+- Notes: Oldest and most capped player in the squad. Provides leadership and reliability in goal.
+
+---
+
+**SERGIO RAMOS**  
+- Position: Right-back / Center-back  
+- Key Attributes: Defense, composure, concentration, leadership, physical strength  
+- Strengths: Superb at right-back, best of five at center-back, provides defense depth. Strong, physically imposing, leader within the squad  
+- Weaknesses: None specifically noted  
+- Notes: Considered one of four good options at right-back, and the top option at center-back. Reliable defensive cornerstone.
+
+---
+
+**DANI CARVAJAL**  
+- Position: Right-back  
+- Key Attributes: Defensive work rate  
+- Strengths: Listed among shortest players, known for work rate  
+- Weaknesses: Currently struggling for form (average rating 6.56 over last 5 matches)  
+- Notes: Needs improvement in recent performances. No direct technical or physical weaknesses listed, but form is a concern.
+
+---
+
+**Team Summary**  
+- Notable Attributes: Dribbling, agility, determination, composure, concentration, finishing, long shots, bravery, acceleration, penalties, work rate, marking, strength, leadership, aerial reach, one-on-ones, rushing out (goalkeepers)
+- Strengths: Balanced squad, multiple superb defenders (Sergio Ramos), excellent goalkeeper (Casillas), composed and determined group, high work rate, team is physically strong, threat from long range, good at penalties.
+- Weaknesses: Poor payroll budget management (overspending), lack of overall depth beyond first team, poor at defensive set piece contacts (especially near post), too many goals conceded inside the penalty area, a key player (Carvajal) struggling for form.
+
+---
+
+**Contracts & Key Stats**
+- Youngest player: Raphaël Varane (20 years 352 days)
+- Oldest/Most Capped: Iker Casillas (32 years 327 days, 154 caps)
+- Top Earners: Cristiano Ronaldo, Gareth Bale ($15.6M p/a)
+- Lowest Earner: Jesús ($199K p/a)
+- Average age: 26  
+- Average salary: $4,671,524 per year
+
+---
+
+If you need more specific player-by-player breakdowns for any other squad members, please provide their attributes or direct screenshots!
+
+Here is a structured squad report for the three highlighted Real Madrid players:
+
+---
+
+**IKER CASILLAS**  
+- **Position:** Goalkeeper (Sweeper Keeper / Goalkeeper)
+- **Age:** 32  
+- **Contract:** $8.92M p/a until 6/30/2027 ($66M–$71M value)  
+- **Key Attributes:** Reflexes (20), One On Ones (20), Handling (14), Command of Area (13), Communication (15), Agility (18), Throwing (16), Rushing Out (15)
+- **Strengths:** World-class reflexes, one-on-one shot-stopping, excellent agility, strong leader, very good handling and distribution, highly experienced (154 caps).
+- **Weaknesses:** Kicking (11), First Touch (7), Eccentricity (5); not notable for sweeping outside the box.
+- **Notes:** Team leader, described as a legendary goalkeeper, important player in prime years, consistent performance (7.17–7.60 average rating).
+
+---
+
+**GARETH BALE**  
+- **Position:** Attacking Midfielder (Right/Left), Winger, Inside Forward, Inverted Winger
+- **Age:** 24  
+- **Contract:** $15.6M p/a until 6/30/2029 ($84M–$107M value)  
+- **Key Attributes:** Acceleration (17), Pace (17), Stamina (17), Dribbling (16), Crossing (15), Finishing (14), Long Shots (16), Technique (15), Work Rate (13)
+- **Strengths:** Exceptional speed and physicality, versatile across both wings, great dribbler, good finisher from wide areas, strong work rate, influential player in the squad.
+- **Weaknesses:** Limited defensive contribution (Tackling 11), Heading (9), Passing (14) is good but not elite; tiredness after matches, injury risk high.
+- **Notes:** Elite winger, high wage earner, contributes assists (2) and stable league performance (7.34–7.70 avg rating).
+
+---
+
+**CRISTIANO RONALDO**  
+- **Position:** Attacking Midfielder (Left/Right), Striker, Inside Forward, Winger, Trequartista  
+- **Age:** 29  
+- **Contract:** $15.6M p/a until 6/30/2028 ($125M–$136M value)  
+- **Key Attributes:** Finishing (19), Composure (19), Stamina (19), Pace (19), Dribbling (17), Long Shots (17), Heading (17), Penalty Taking (19), Technique (17), Off the Ball (18)
+- **Strengths:** Elite goal scorer, outstanding physical stats (pace, stamina, strength), world-class mental (composure, work rate, off the ball), multi-positional attacking threat, highly influential, consistent high-level performances.
+- **Weaknesses:** Average passing (15), tackling (8), not a playmaker type; high wage earner, some risk of fatigue.
+- **Notes:** Legendary winger, star player, described as a perfectionist, prolific in front of goal (37 games/27 goals/10 assists; 7.09–8.80 avg rating).
+
+---
+
+Let me know if you want to add more players or a comparative summary!
+
+Certainly! Here’s a structured and concise report for each player:
+
+---
+
+**Diego López**  
+- **Position:** Goalkeeper  
+- **Key Attributes:** Aerial Reach (18), Reflexes (17), One On Ones (16), Handling (14), Throwing (15), Kicking (16), Command Of Area (15)  
+- **Strengths:** Excellent aerial reach and reflexes; good decision-making and composure; strong physical presence (Strength 16, Jumping Reach 17)  
+- **Weaknesses:** Low Eccentricity (7); not the sharpest in Acceleration (6)  
+- **Notes:** 32 years old; backup keeper; contract until 2027; lacking match sharpness but influential personality (Resolute); seen as a fringe player in his prime.
+
+---
+
+**Álvaro Arbeloa**  
+- **Position:** Defender (Right/Left)  
+- **Key Attributes:** Marking (16), Tackling (15), Work Rate (18), Teamwork (16), Positioning (16), Concentration (15)  
+- **Strengths:** High work rate and teamwork; reliable defender with strong marking and tackling; good leadership (13)  
+- **Weaknesses:** Technical ability is modest (Dribbling 10, Flair 8); not an attacking threat  
+- **Notes:** 31 years old; regular starter; contract until 2026; match fit, highly influential in squad dynamics; traits include simple passes, opponent marking.
+
+---
+
+**Sami Khedira**  
+- **Position:** Midfielder (Center, Defensive Midfielder)  
+- **Key Attributes:** Stamina (18), Work Rate (19), Teamwork (19), Positioning (17), Tackling (14), Passing (13), Composure (14)  
+- **Strengths:** Tireless box-to-box presence; excellent teamwork, positioning, stamina; balanced defensively and technically  
+- **Weaknesses:** Poor at set-pieces (Corners 6, Free Kicks 8); limited dribbling (10) and flair (8)  
+- **Notes:** 27 years old; squad player; contract until 2025; professional personality; may be tired but highly regarded in squad.
+
+---
+
+**Karim Benzema**  
+- **Position:** Striker (Center)  
+- **Key Attributes:** First Touch (19), Finishing (17), Dribbling (17), Technique (18), Composure (17), Off The Ball (18), Positioning (17)  
+- **Strengths:** Elite technical and attacking skills; creative and mobile forward; strong decision-making and anticipation  
+- **Weaknesses:** Acceleration (12), Strength (13), Aggression (8) are only average  
+- **Notes:** 26 years old; important player; contract until 2028; regular starter, consistent performer, moves into channels and plays one-twos.
+
+---
+
+Let me know if you need further breakdowns or summaries!
+
+**Nacho**
+- Position: Defender (Right, Left, Center)
+- Key Attributes: Heading (14), Marking (14), Tackling (15), Acceleration (16), Pace (14), Stamina (14)
+- Strengths: Versatile defender (can play all across the backline), strong tackling, good heading and marking, very good acceleration and pace for a defender
+- Weaknesses: Limited technical ability (e.g., Crossing 8, First Touch 11), low composure (6), not highly rated for potential or current ability
+- Notes: Age 24. Contracted to Real Madrid, valued at $2.5M-$3.5M, contract until 2027. Considered a fringe player, lacking match sharpness.
+
+---
+
+**Isco**
+- Position: Attacking Midfielder (Center), also capable in midfield or left wing
+- Key Attributes: Dribbling (18), First Touch (19), Passing (18), Technique (18), Agility (16), Flair (17), Vision (16)
+- Strengths: Excellent technical skills, top-level dribbler and creator, high agility and vision, strong mental attributes (Composure 15, Decisions 16)
+- Weaknesses: Weak marking (5), low leadership (7), below-average strength (10)
+- Notes: Age 21. Contracted to Real Madrid, valued at $93M-$107M, contract until 2028. Regular starter, ambitious personality. Player traits: Tries killer balls often, places shots, comes deep to get ball.
+
+---
+
+**Álvaro Morata**
+- Position: Striker (Center), also AM (L)
+- Key Attributes: Finishing (16), First Touch (14), Off The Ball (17), Pace (15), Stamina (13), Strength (14)
+- Strengths: Good finisher, very strong off-the-ball movement, physically impressive (size: 6'3", pace and strength)
+- Weaknesses: Poor marking (5), below-average passing and vision (11/7), limited flair and leadership
+- Notes: Age 21. Contracted to Real Madrid, valued at $16M-$23M, contract until 2025. Labeled a breakthrough prospect.
+
+---
+
+**Casemiro**
+- Position: Defensive Midfielder, Central Midfielder
+- Key Attributes: Tackling (13), Passing (12), Technique (16), Jumping Reach (17), Stamina (16), Strength (14), Work Rate (14)
+- Strengths: Well-rounded physical attributes, excellent jumping reach, strong stamina and technique, capable defender and ball-winner
+- Weaknesses: Low composure (8), low penalty taking (9), not outstanding in any one area mentally
+- Notes: Age 22. On loan at Real Madrid, valued at $15M-$17M, contract until 2027. Breakthrough prospect, balanced personality.
+
+---
+
+Let me know if you want more detailed analysis or a focus on specific roles!
+
+**[SERGIO RAMOS]**
+- Position: Defender (Right, Center); WB (R)
+- Age/Contract: 28 years old; Contracted to R. Madrid until 6/2027; $7.32M p/a; Important Player
+- Key Attributes: Marking (17), Tackling (15), Passing (16), Heading (17), Leadership (19), Bravery (17), Positioning (17), Stamina (17), Acceleration (16), Strength (15)
+- Strengths: Elite mental attributes, especially Leadership and Teamwork; excellent defensive skills; great physicality for a defender; versatility (can play as RB or CB).
+- Weaknesses: High injury risk, only average Crossing (12), slightly lower Composure (11).
+- Notes: Team leader and important player in his prime; aggressive, tackles well, and often gets forward. Suspended in UEFA CL.
+
+---
+
+**[JESÉ]**
+- Position: Striker (Center), AM (L), AM (C)
+- Age/Contract: 21 years old; Contracted to R. Madrid until 6/2026; $1.09M p/a; Breakthrough Prospect
+- Key Attributes: Dribbling (17), Finishing (15), Technique (17), Passing (15), First Touch (14), Pace (16), Stamina (13), Penalty Taking (14)
+- Strengths: High technical skills; good pace and finishing; great flair; moves into channels and often tries killer balls.
+- Weaknesses: Very low Aggression (8) and Composure (8); poor Balance (9) and limited Jumping Reach (8); lacks top-level mental strength.
+- Notes: Exciting prospect close to first team; best as Advanced Forward or Trequartista. No significant first-team impact yet.
+
+---
+
+**[MARCELO]**
+- Position: Defender (Left), Wing Back (L), Midfielder (L)
+- Age/Contract: 25 years old; Contracted to R. Madrid until 6/2028; $3.39M p/a; Important Player
+- Key Attributes: Dribbling (17), Technique (18), First Touch (17), Stamina (15), Crossing (16), Acceleration (16), Agility (17)
+- Strengths: Excellent technical and physical stats for a fullback; dangerous going forward; superb dribbler and crosser; versatile.
+- Weaknesses: Low Jumping Reach (8), only moderate Strength (10); Heading (8) and Composure (11) could be better defensively.
+- Notes: Attacking left back; gets forward and plays one-twos; could still improve; highly influential in the squad.
+
+---
+
+**[BORJA]**
+- Position: Attacking Midfielder (C/R/L), Striker (C)
+- Age/Contract: 23 years old; Contracted to R. Madrid until 6/2026; $413K p/a; Fringe Player
+- Key Attributes: Passing (12), Technique (13), Finishing (14), Pace (14), Stamina (12), First Touch (12)
+- Strengths: Decent technical attributes; decent pace; works well as a shadow striker; cuts inside effectively.
+- Weaknesses: Weak in the air (Jumping Reach 8, Heading 8), low Balance (9) and Strength (10); overall mental attributes are only average.
+- Notes: Lacking match sharpness, may not have required potential or ability for top team level. Utilized mainly for squad depth.
+
+**Jesús**
+- Position: Goalkeeper
+- Key Attributes: Aerial Reach (14), Reflexes (14), Agility (14), Kicking (12), Handling (13), Positioning (12)
+- Strengths: Good Reflexes, Solid Aerial Reach, Strong Agility, Passing (15)
+- Weaknesses: Poor technical outfield skills (low technique, finishing), Lacking match sharpness, Not a standout communicator (11)
+- Notes: Age 25, Contracted to R. Madrid until 2028, $400K-$650K value, Backup option, 6’3” tall, left footed.
+
+---
+
+**Raphaël Varane**
+- Position: Central Defender (Ball Playing Defender, Wide Center-Back, Libero)
+- Key Attributes: Marking (16), Tackling (15), Heading (16), Passing (14), Pace (17), Acceleration (17), Jumping Reach (17), Strength (14)
+- Strengths: Physicality (rapid and strong), Defensive attributes, Passing ability, Leadership (15), Work Rate (15)
+- Weaknesses: Limited attacking skills (low finishing, free kicks), Low Aggression (5)
+- Notes: Age 20, Wonderkid, Contracted until 2028 ($94M–$109M), Regular starter, 6’3” right-footed, Resilient personality. Player Traits: Tries To Play Way Out Of Trouble, Does Not Dive Into Tackles.
+
+---
+
+**Pepe**
+- Position: Central Defender/Defensive Midfielder (Wide Center-Back, Ball Playing, No-Nonsense)
+- Key Attributes: Marking (16), Tackling (18), Aggression (17), Strength (15), Positioning (17), Stamina (16)
+- Strengths: Aggressive style, High defensive skills, Mentally tough (Leadership 16, Determination 16), Physically strong and fast
+- Weaknesses: Low creative/technical attributes (low flair, free kick taking, finishing)
+- Notes: Age 31, Prime years, Contract until 2027 ($42M–$46M), Highly influential, Right-footed, "Marks Opponent Tightly", "Argues With Officials", "Dives Into Tackles".
+
+---
+
+**Fábio Coentrão**
+- Position: Left Defender/Wing Back (Complete Wing-Back, Full-Back, Inverted Wing-Back)
+- Key Attributes: Crossing (15), Acceleration (16), Stamina (15), Dribbling (14), Tackling (15), Pace (14), Passing (14), Composure (13)
+- Strengths: Well-rounded technically, Quick and hard-working, Good mental game (Work Rate 17, Determination 15)
+- Weaknesses: Not strong (Strength 10), Average defensive marking (12)
+- Notes: Age 26, Squad player, Contracted until 2028 ($29M–$32M), Influential, 5’10”, Left-footed, "Runs With Ball Down Left".
+
+---
+
+Let me know if you need detailed stats or further players!
+
+**ASIER ILLARRAMENDI**
+- Position: Defensive Midfielder, Midfielder (Center)
+- Key Attributes: Passing (16), Marking (14), Stamina (14), Vision (14), Technique (14), First Touch (13), Composure (13), Work Rate (13)
+- Strengths: Reliable passer, strong tactical positioning, good stamina, capable mental attributes for defensive role
+- Weaknesses: Limited attacking contribution (Finishing 6, Flair 7), acceleration and agility are average, lacks creative flair
+- Notes: 24 years old, contracted to R. Madrid ($41M–$52M, until 2028), rated as a squad player who could still improve, low injury risk but lacking match sharpness
+
+---
+
+**LUKA MODRIC**
+- Position: Midfielder/Attacking Midfielder (Center), AM (Left/Right)
+- Key Attributes: Passing (17), First Touch (17), Dribbling (16), Vision (18), Technique (18), Balance (17), Agility (17), Stamina (17)
+- Strengths: Excellent playmaking abilities, very high vision and technical skills, strong mental attributes, extremely agile, thrives under pressure
+- Weaknesses: Not strong physically (Strength 9), only average in aerial ability (Jumping Reach 4), finishing is average for an advanced role
+- Notes: 28 years old, world class midfielder, $47M–$62M contract to 2027, regular starter, extremely good influence in squad, increased injury risk
+
+---
+
+**XABI ALONSO**
+- Position: Defensive Midfielder, Midfielder (Center)
+- Key Attributes: Passing (18), Vision (17), Long Shots (17), Stamina (15), Work Rate (15), Leadership (18), Decisions (17)
+- Strengths: Outstanding passer, highly intelligent player (decisions, vision, leadership), very strong in long-range shooting, excels in central roles
+- Weaknesses: Dribbling (12) and acceleration (10) are only average, not an aggressive tackler, injury risk currently high (tired)
+- Notes: 32 years old, elite midfielder, $36M–$47M contract to 2025, important player, strong team leader, shoots from distance and comes deep for ball
+
+---
+
+**ÁNGEL DI MARÍA**
+- Position: Midfielder (Left), Attacking Midfielder (Right/Left), AM (C)
+- Key Attributes: Dribbling (17), Crossing (15), Pace (17), Technique (16), Passing (16), Agility (17), First Touch (15)
+- Strengths: Very quick and agile, creative and technical winger, excellent crosser and dribbler, capable in multiple attacking roles, high influence on pitch
+- Weaknesses: Below average strength (9), finishing is adequate (12) but not standout, decision making (13) could be higher for his level
+- Notes: 26 years old, elite winger, $77M–$92M contract to 2028, regular starter, spirited personality, thriving form (7.90 average rating), highly influential player
+
+---
+
+Let me know if you need more reports or comparison/summary!
+
+Here is a structured squad summary based on the Football Manager screenshots:
+
+---
+
+**Ángel Di María**
+- Position: AMR (Right Winger)
+- Key Attributes: Technical, flair, dribbling
+- Strengths: Creativity, pace, technical skill
+- Weaknesses: Physical presence
+- Notes: Best role as Winger (Support), age 26, 4.5-star ability/potential.
+
+---
+
+**Gareth Bale**
+- Position: AML (Left Winger)
+- Key Attributes: Physical, pace, shooting
+- Strengths: Speed, power, finishing
+- Weaknesses: Technical consistency
+- Notes: Best role as Winger (Support), age 24, 4.5-star ability/potential.
+
+---
+
+**Cristiano Ronaldo**
+- Position: STC (Striker, Left Inside Forward)
+- Key Attributes: Physical, finishing, technique
+- Strengths: Goal-scoring, athleticism, versatility
+- Weaknesses: Defensive contribution
+- Notes: Best role as Inside Forward (Support), age 29, 5-star ability/potential.
+
+---
+
+**Diego López**
+- Position: GK (Goalkeeper)
+- Key Attributes: Distribution, command, handling
+- Strengths: Shot-stopping, leadership
+- Weaknesses: Age, declining physicals
+- Notes: Best role as Goalkeeper, age 32, 3.5-star ability/potential.
+
+---
+
+**Álvaro Arbeloa**
+- Position: DR (Right Back)
+- Key Attributes: Defensive awareness, stamina
+- Strengths: Leadership, consistency
+- Weaknesses: Limited attacking threat
+- Notes: Best role as Full-Back (Support), age 31, 3.5-star ability/potential.
+
+---
+
+**Sami Khedira**
+- Position: MCL (Central Midfielder)
+- Key Attributes: Intelligence, work rate, tackling
+- Strengths: Defensive work, physicality
+- Weaknesses: Limited creativity
+- Notes: Best role as BWM (Defend), age 27, 4-star ability/potential.
+
+---
+
+**Karim Benzema**
+- Position: STC (Striker)
+- Key Attributes: Technical, finishing, vision
+- Strengths: Link-up play, off-the-ball movement
+- Weaknesses: Physical robustness
+- Notes: Best role as Deep Lying Forward (Attack), age 26, 4.5-star ability/potential.
+
+---
+
+**Nacho**
+- Position: DR (Defender Right)
+- Key Attributes: Leadership, defensive consistency
+- Strengths: Versatility, defensive solidity
+- Weaknesses: Limited attacking contribution
+- Notes: Best role as Wing-Back (Defend), age 24, 3-star ability/potential.
+
+---
+
+**Isco**
+- Position: AMC (Attacking Midfielder Centre)
+- Key Attributes: Creativity, flair, dribbling
+- Strengths: Technical skill, playmaking
+- Weaknesses: Defensive contribution
+- Notes: Best role as Advanced Playmaker (Support), age 21, 4.5-star ability/potential.
+
+---
+
+**Álvaro Morata**
+- Position: STC (Striker)
+- Key Attributes: Technical, movement, finishing
+- Strengths: Attack positioning, potential growth
+- Weaknesses: Experience, decision-making
+- Notes: Best role as Advanced Forward (Attack), age 21, 3.5-star ability/potential.
+
+---
+
+**Dani Carvajal**
+- Position: DR (Right Back)
+- Key Attributes: Leadership, crossing, stamina
+- Strengths: Defending, attacking support
+- Weaknesses: Experience
+- Notes: Best role as Complete Wing-Back (Support), age 22, 3.5-star ability/potential.
+
+---
+
+**Casemiro**
+- Position: DM (Defensive Midfielder)
+- Key Attributes: Physical, tackling, positioning
+- Strengths: Ball-winning, defensive awareness
+- Weaknesses: Limited passing range
+- Notes: Best role as BWM (Defend), age 22, 3-star ability/potential.
+
+---
+
+**Jesé**
+- Position: STC (Striker)
+- Key Attributes: Technical, speed, dribbling
+- Strengths: Attacking threat, versatility
+- Weaknesses: Consistency, off-the-ball
+- Notes: Best role as Advanced Forward (Attack), age 21, 3.5-star ability/potential.
+
+---
+
+**Marcelo**
+- Position: ML (Left Midfielder)
+- Key Attributes: Technical, flair, dribbling
+- Strengths: Creativity, support play
+- Weaknesses: Defensive reliability
+- Notes: Best role as Winger (Support), age 25, 4-star ability/potential.
+
+---
+
+**Borja**
+- Position: AMC (Attacking Midfielder Centre)
+- Key Attributes: Intelligence, finishing
+- Strengths: Vision, movement
+- Weaknesses: Physical strength
+- Notes: Best role as Shadow Striker (Attack), age 23, 2.5-star ability/potential.
+
+---
+
+**Jesús**
+- Position: GK (Goalkeeper)
+- Key Attributes: Shot-stopping
+- Strengths: Reflexes
+- Weaknesses: Experience
+- Notes: Best role as Sweeper Keeper (Defend), age 25, 2.5-star ability/potential.
+
+---
+
+**Nuri Sahin**
+- Position: MCL (Central Midfielder)
+- Key Attributes: Technical, passing, vision
+- Strengths: Distribution, ball retention
+- Weaknesses: Physical duels
+- Notes: Best role as DLP (Defend), age 25, 3-star ability/potential.
+
+---
+
+**Denis Cheryshev**
+- Position: AML (Left Winger)
+- Key Attributes: Technical, pace, dribbling
+- Strengths: Athleticism, crossing
+- Weaknesses: Consistency, decision-making
+- Notes: Best role as Winger (Support), age 23, 2.5-star ability/potential.
+
+---
+
+Let me know if you need a deeper dive on individual players!
+

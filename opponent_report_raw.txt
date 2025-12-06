@@ -1,0 +1,99 @@
+[TEAM OVERVIEW]
+- **Formation(s):** Most likely a back four (see names/roles), with a probable 4-2-3-1 or 4-3-3 structure (expected tactic not fully shown).
+- **Tactical Style:** Possession-oriented; high number of passes per game (580 vs league avg 483); focus on building play through the midfield third.
+- **Pressing:** Periods of dominance, particularly in first half (notably aggressive/dominant between minutes 6-28 and after halftime); pressing possibly drops late, as evidenced by match momentum swing after 72 minutes.
+- **Transition:** Strong in possession phases, with control in key stretches of matches; less effective under pressure in closing stages.
+- **Defense:** High pass completion among defenders, low clearances per 90 (indicating attempts to play out from the back, not just clear), high blocking stats, lower aerial duel success for at least some defenders.
+- **Attack:** Build-ups from deep, midfield, limited direct play; emphasis on control rather than verticality; attacking momentum strongest early and just after halftime.
+
+[KEY PLAYERS]
+**Javi Chica**
+- **Position:** Defender
+- **Strengths:** 
+  - High pass completion (88.7%), good ball retention.
+  - High tackle win ratio (86.3%), keeps fouls low.
+  - High blocks/90.
+- **Weaknesses:** 
+  - Fewer headers won per 90 (3.62); may be vulnerable aerially.
+  - Low clearances per 90 (1.61).
+
+**Guillermo Sara**
+- **Position:** Goalkeeper (Sweeper Keeper)
+- **Strengths:** 
+  - High number of shutouts.
+  - Good save percentage (70.2%).
+  - Above average in games for passes attempted — involved in buildup.
+- **Weaknesses:** 
+  - Saves fewer penalties than average (0% save ratio).
+  - 1.42 conceded per 90 — generally solid but not impenetrable.
+
+[EXPLOITABLE WEAKNESSES]
+- Defensive lapses late in matches; vulnerable after 72 minutes as momentum drops.
+- At least one key defender (Chica) is not dominant in the air; potential weakness vs set pieces/crosses.
+- Preference to play out from the back and avoid clearances can lead to turnovers in defensive third under intense pressing.
+- Goalkeeper does not save penalties — take direct shots from set pieces or draw penalties when possible.
+- Attacking play focuses on midfield; pressing their midfield hard may disrupt their rhythm.
+
+[Home or Away]
+**Real Hispalis** is the **home** team (as shown in “Real Hispalis v Levante”).
+
+---
+
+**Summary:**  
+Real Hispalis is a possession-based, midfield-focused team with strong early-game momentum and a tendency to lose defensive stability late. Their defenders are good at passing and blocking but can be exposed aerially or under high pressure. Exploit their tendency to play out from the back and focus on late-game pressing or aerial bombardment, especially towards underperforming defenders and the penalty box.
+
+[TEAM OVERVIEW]  
+- **Formation(s):** 4-1-2-2-1 (4-3-3 with a single pivot and two advanced CMs, wingers wide, one striker)
+- **Tactical Style:** Cautious mentality (especially away), Wing Play focus  
+- **Pressing:** Not especially noted for aggressive high pressing; prefer to absorb and counter  
+- **Transition:**  
+  - Defensively: Leave players forward to counter; don’t commit everyone behind the ball
+  - Offensively: Commit lots of players during attacks; look to exploit wide areas and cross early
+- **Defense:**  
+  - Generally marks directly on set pieces, covers both posts
+  - Central defenders and full-backs (notably Javi Chica) perform above average
+  - Can be vulnerable if caught with too many players committed forward
+- **Attack:**  
+  - Builds through the wings, especially using overlapping full-backs
+  - Main plan: Get the ball wide, exploit flanks, and cross to the box
+  - Passing combinations focus in the middle third but wide overloads
+- **Set Piece Tendencies:**  
+  - Inswinging deliveries to the near post when attacking
+  - Man-marking and both posts covered when defending
+
+[KEY PLAYERS]
+- **Guillermo Sara (GK, Sweeper Keeper)**
+  - **Strengths:** Above average in goalkeeping stats, commands box well
+  - **Weaknesses:** No explicit weaknesses noted, but high action due to exposed defense on counters
+
+- **Javi Chica (RB/Full-Back)**
+  - **Strengths:** Key defensive performer, high passing/combination play (strong link with Amaya), supports wing play
+  - **Weaknesses:** Can be dragged forward and vulnerable to quick counters behind him
+
+- **Antonio Amaya (CB)**
+  - **Strengths:** Major link-up player on right (defensive buildup); involved in play, especially passing out from the back
+  - **Weaknesses:** Heavily involved—which may increase error likelihood under pressing
+
+- **Xavi Torres (DM)**
+  - **Strengths:** Orchestrates play from deep (157 passes in last match), keeps ball moving centrally
+  - **Weaknesses:** If pressed, may be pressured into mistakes as team relies on his distribution
+
+- **Álvaro Vadillo / Cédric (Wingers)**
+  - **Strengths:** Provide width and crossing, important for chance creation
+  - **Weaknesses:** Wing play predictability—may run out of ideas if denied width
+
+- **Rubén Castro (Inside Forward)**
+  - **Strengths:** Goal threat cutting in; strong scorer
+  - **Weaknesses:** Link with LB (Vilà) is weak; isolated if play is focused only on one side
+
+[EXPLOITABLE WEAKNESSES]
+- They commit a lot of players forward when attacking, leaving them open to quick counters.
+- Their wing play can be predictable; blocking crosses and crowding the flanks could stifle their attack.
+- The link between the left full-back (Vilà) and inside forward (Castro) is weak—target that channel when building attacks.
+- If their deep playmaker (Torres) is heavily pressed, their build-up structure could collapse.
+- High reliance on individual performances by defenders and goalkeeper suggests vulnerability if pressured consistently.
+- Set piece defending can be exploited if you crowd the near post or overload against their direct marking setup.
+
+[Home or Away]
+- **Real Hispalis** is the AWAY team (as "R. Madrid v Real Hispalis" – Team 1 = Home, Team 2 = Away). Their approach will be even more cautious than usual.
+
