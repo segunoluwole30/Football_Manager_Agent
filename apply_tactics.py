@@ -35,6 +35,8 @@ def apply_preset_tactic(preset_key: str, formation_key: str):
     """
     print(f"[Tactics] Changing to preset: {preset_key}, formation: {formation_key}")
 
+    click("navigation", "tactics_button", delay=1)
+
     # Step 1: Click existing tactic slot
     click("tactics", "existing_tactic_slot", delay=2)
 
