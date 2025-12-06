@@ -77,13 +77,13 @@ UI_COORDS = {
 
     "mentality": {
         "open_mentality": (352, 330),
-        "very_defensive": (347, 398),
-        "defensive": (357, 428),
-        "cautious": (357, 468),
-        "balanced": (357, 508),
-        "positive": (357, 548),
-        "attacking": (357, 588),
-        "very_attacking": (357, 618),
+        "very_defensive": (347, 390),
+        "defensive": (357, 425),
+        "cautious": (357, 465),
+        "balanced": (357, 495),
+        "positive": (357, 535),
+        "attacking": (357, 575),
+        "very_attacking": (357, 605),
     },
 
     # -----------------------------------------------------------
