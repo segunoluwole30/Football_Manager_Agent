@@ -3,6 +3,7 @@ UI_COORDS = {
         "home_button": (76, 27),
         "tactics_button": (82, 264),
         "top_right_button": (1807, 44),
+        "squad_button": (85, 122),
     },
 
     "tactics": {
@@ -83,5 +84,77 @@ UI_COORDS = {
         "positive": (357, 548),
         "attacking": (357, 588),
         "very_attacking": (357, 618),
-    }
+    },
+
+    # -----------------------------------------------------------
+    # NEW SECTION: Squad Reports
+    # -----------------------------------------------------------
+    "squad_reports": {
+        "squad_button": (85, 122),
+        "players_dropdown": (385, 163),
+        "reports_dropdown_option": (416, 574),
+        "quick_pick_button": (1622, 164),
+        "overview_center": (960, 540),
+        "scroll_amount": -2000,
+        "scroll_amount_up": 2000,
+    },
+
+    # -----------------------------------------------------------
+    # NEW SECTION: Player List Coordinates (23 players)
+    # -----------------------------------------------------------
+    "player_reports": {
+        # First 12 visible players
+        "player_1": (446, 292),
+        "player_2": (446, 332),
+        "player_3": (453, 370),
+        "player_4": (446, 408),
+        "player_5": (446, 443),
+        "player_6": (446, 478),
+        "player_7": (446, 515),
+        "player_8": (446, 555),
+        "player_9": (446, 595),
+        "player_10": (446, 635),
+        "player_11": (446, 675),
+        "player_12": (446, 715),
+
+        # After scroll
+        "player_13": (446, 755),
+        "player_14": (446, 795),
+        "player_15": (446, 835),
+        "player_16": (446, 870),
+        "player_17": (446, 910),
+        "player_18": (446, 945),
+        "player_19": (446, 709),
+        "player_20": (446, 744),
+        "player_21": (446, 784),
+        "player_22": (446, 824),
+        "player_23": (446, 864),
+
+        "back_button": (233, 41),
+    },
+
+    # -----------------------------------------------------------
+    # NEW SECTION: Squad Planner
+    # -----------------------------------------------------------
+    "squad_planner": {
+        "planner_button": (68, 173),
+        "report_dropdown": (589, 96),
+        "assistant_report": (605, 184),
+        "strengths_weaknesses": (1267, 235),
+        "scroll_amount": -2800,
+    },
+
+    # -----------------------------------------------------------
+    # NEW SECTION: Opponent Scouting Report
+    # -----------------------------------------------------------
+    "opponent_scouting": {
+        "click_key_finding_1": (1213, 686),
+        "click_key_finding_2": (1213, 774),
+        "click_key_finding_3": (1213, 862),
+        "click_key_finding_4": (1213, 950),
+        "hover_inside_findings": (1213, 950),
+        "scroll_down": -2000,
+        "click_last_key_finding": (1406, 946),
+        "exit_button": (1495, 144),
+    },
 }

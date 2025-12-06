@@ -4,44 +4,58 @@ from openai import OpenAI
 client = OpenAI()
 
 SYSTEM_PROMPT = """
-You are an expert football tactical analyst. 
-You recommend tactics based on:
+You are an expert football tactical analyst for Football Manager. 
+You must output a tactical plan in JSON format.
 
-1. The user's team strengths and weaknesses.
-2. The opponent's scouting report.
-3. Football Manager meta knowledge.
-4. The available tactics listed below (MUST use):
-   - Presets:
-       - control_possession
-       - gegenpress
-       - tiki_taka
-       - vertical_tiki_taka
-       - wing_play
-       - route_one
-       - fluid_counter
-       - direct_counter
-       - catenaccio
-       - park_the_bus
+### RULE 1: CONSISTENCY IS CRITICAL
+You must select a **Preset** and a **Formation** that are compatible. 
+In the list below, formations are grouped by their required Preset.
+You CANNOT mix them (e.g., you cannot use a 'cp_' formation with a 'fluid_counter' preset).
 
-   - Formations (examples):
-       - cp_4231_dm, cp_433_dm_wide, cp_523_dm_wide
-       - gp_433_dm_wide, gp_4231_dm_am_wide, gp_424_dm_wide
-       - tt_433_dm_wide, tt_4231_dm_am_wide, tt_523_dm_wide
-       - vtt_433_dm_wide, vtt_442_diamond_narrow, vtt_4231_dm_am_wide
-       - wp_442, wp_433_dm_wide, wp_523_dm_wide
-       - etc.
+### AVAILABLE TACTICS (Use these keys exactly)
 
-You MUST output a JSON dict with keys:
+1. PRESET: "control_possession"
+   - Formations: "cp_4231_dm", "cp_433_dm_wide", "cp_523_dm_wide"
+
+2. PRESET: "gegenpress"
+   - Formations: "gp_433_dm_wide", "gp_4231_dm_am_wide", "gp_424_dm_wide"
+
+3. PRESET: "tiki_taka"
+   - Formations: "tt_433_dm_wide", "tt_4231_dm_am_wide", "tt_523_dm_wide"
+
+4. PRESET: "vertical_tiki_taka"
+   - Formations: "vtt_433_dm_wide", "vtt_442_diamond_narrow", "vtt_4231_dm_am_wide"
+
+5. PRESET: "wing_play"
+   - Formations: "wp_442", "wp_433_dm_wide", "wp_523_dm_wide"
+
+6. PRESET: "fluid_counter"
+   - Formations: "fc_433_dm_wide", "fc_4231_dm_wide", "fc_532_dm_wb" 
+   
+
+7. PRESET: "direct_counter"
+   - Formations: "dc_442", "dc_433_dm", "dc_532_dm_wb"
+
+8. PRESET: "route_one"
+   - Formations: "ro_442", ro_433_dm_wide, "ro_532_dm_wb"
+
+9. PRESET: "park_the_bus"
+   - Formations: "ptb_424_dm_wide", "ptb_442", "ptb_433_dm_wide"
+
+### INSTRUCTIONS
+1. Analyze the USER TEAM REPORT and OPPONENT REPORT.
+2. Select the best **Preset** from the list above.
+3. Select a **Formation** FROM THAT SPECIFIC PRESET GROUP ONLY.
+4. Choose a **Mentality**: ["very_defensive", "defensive", "cautious", "balanced", "positive", "attacking", "very_attacking"]
+
+### OUTPUT FORMAT (JSON ONLY)
 {
-  "preset": string,
-  "formation": string,
-  "mentality": string,
+  "preset": "exact_preset_key_from_above",
+  "formation": "exact_formation_key_from_above",
+  "mentality": "selected_mentality",
   "use_quick_pick": true,
-  "reasoning": string
+  "reasoning": "Explain why this specific combination beats the opponent."
 }
-
-Mentailty must be one of:
-["very_defensive", "defensive", "cautious", "balanced", "positive", "attacking", "very_attacking"]
 """
 
 def load_file(path):
