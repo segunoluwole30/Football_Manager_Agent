@@ -48,6 +48,9 @@ For each:
 [EXPLOITABLE WEAKNESSES]
 - Bullet points of weaknesses your team can use.
 
+[Home or Away]
+Note that in the Opponent Scouting Report, where it has Team 1 vs Team 2, Team 1 is the HOME team.
+
 Keep the writing clear, structured, and concise.
 """
 

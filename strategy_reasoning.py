@@ -34,7 +34,7 @@ You CANNOT mix them (e.g., you cannot use a 'cp_' formation with a 'fluid_counte
    
 
 7. PRESET: "direct_counter"
-   - Formations: "dc_442", "dc_433_dm", "dc_532_dm_wb"
+   - Formations: "dc_442", "dc_433_dm_wide", "dc_532_dm_wb"
 
 8. PRESET: "route_one"
    - Formations: "ro_442", ro_433_dm_wide, "ro_532_dm_wb"
@@ -75,11 +75,12 @@ TEAM REPORT:
 OPPONENT REPORT:
 {opponent_data}
 
-Based on these two reports, output the JSON tactic plan.
+Based on these two reports, output the JSON tactic plan. 
+REMEMBER: The formation key MUST match the preset prefix (e.g. 'gp_' for 'gegenpress').
 """
 
     response = client.chat.completions.create(
-        model="gpt-4.1-mini",
+        model="gpt-4",  # Recommendation: Use GPT-4 for better logic adherence
         temperature=0.2,
         messages=[
             {"role": "system", "content": SYSTEM_PROMPT},
@@ -92,6 +93,15 @@ Based on these two reports, output the JSON tactic plan.
     try:
         plan = json.loads(content)
     except json.JSONDecodeError:
-        raise ValueError("LLM did not produce valid JSON:\n" + content)
+        # Fallback to extract JSON if model adds extra text
+        if "```json" in content:
+             import re
+             match = re.search(r"```json\s*(\{.*?\})\s*```", content, re.DOTALL)
+             if match:
+                 plan = json.loads(match.group(1))
+             else:
+                 raise ValueError("LLM did not produce valid JSON:\n" + content)
+        else:
+            raise ValueError("LLM did not produce valid JSON:\n" + content)
 
     return plan
