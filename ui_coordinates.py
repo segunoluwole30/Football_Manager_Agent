@@ -76,7 +76,7 @@ UI_COORDS = {
     },
 
     "mentality": {
-        "open_mentality": (352, 343),
+        "open_mentality": (352, 330),
         "very_defensive": (347, 398),
         "defensive": (357, 428),
         "cautious": (357, 468),
