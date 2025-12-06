@@ -100,6 +100,15 @@ def summarize_opponent_report():
     Path(OUTPUT_FILE).write_text(summary, encoding="utf-8")
     print(f"✅ Opponent summary saved to {OUTPUT_FILE}")
 
+    # TRACK TOKENS HERE
+    input_tokens = response.usage.prompt_tokens
+    output_tokens = response.usage.completion_tokens
+
+    print(f"💰 SUMMARY COST: Input: {input_tokens} | Output: {output_tokens}")
+    
+    # Return these values so agent_main can sum them
+    return input_tokens, output_tokens
+
 
 # ------------------------------------------------------
 # Run script

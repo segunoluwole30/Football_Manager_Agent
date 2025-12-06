@@ -32,6 +32,8 @@ def countdown(seconds, message):
     print("\nGo!")
 
 def run_agent(skip_capture=False, skip_team_report=False):
+    grand_total_input = 0
+    grand_total_output = 0
     ensure_directories()
 
     # --- PHASE 1: DATA COLLECTION ---
@@ -71,17 +73,25 @@ def run_agent(skip_capture=False, skip_team_report=False):
     
     # Opponent Processing (ALWAYS RUN)
     print("🧠 Extracting text from Opponent images (GPT-4 Vision)...")
-    extract_opponent_images()
+    in_tok, out_tok = extract_opponent_images() 
+    grand_total_input += in_tok
+    grand_total_output += out_tok
     print("📝 Summarizing Opponent Report...")
-    summarize_opponent_report()
+    in_tok, out_tok = summarize_opponent_report()
+    grand_total_input += in_tok
+    grand_total_output += out_tok
     
     # Team Processing (CONDITIONAL)
     if not skip_team_report:
         print("🧠 Extracting text from Team images (GPT-4 Vision)...")
-        extract_from_images()
+        in_tok, out_tok = extract_from_images()
+        grand_total_input += in_tok
+        grand_total_output += out_tok
 
         print("📝 Summarizing Team Report...")
-        summarize_team_report()
+        in_tok, out_tok = summarize_team_report()
+        grand_total_input += in_tok
+        grand_total_output += out_tok
     else:
         print("⏭️ Skipping Team Report Extraction and Summarization. Using existing team summary.")
 
@@ -93,7 +103,9 @@ def run_agent(skip_capture=False, skip_team_report=False):
     
     try:
         # Strategy reasoning uses both summaries, one of which is the existing team summary if skipped
-        plan = generate_tactic_plan()
+        plan, in_tok, out_tok = generate_tactic_plan()
+        grand_total_input += in_tok
+        grand_total_output += out_tok
         print("\n🎯 GENERATED TACTICAL PLAN:")
         print(f"   Preset: {plan.get('preset')}")
         print(f"   Formation: {plan.get('formation')}")
@@ -115,14 +127,24 @@ def run_agent(skip_capture=False, skip_team_report=False):
         print("\n✅ Mission Complete. Good luck with the match!")
     else:
         print("\n🛑 Execution aborted.")
+    # --- FINAL COST REPORT ---
+    print("\n==========================================")
+    cost_input = (grand_total_input / 1_000_000) * 3.00
+    cost_output = (grand_total_output / 1_000_000) * 12.00
+    total_cost = cost_input + cost_output
+
+    print(f"\n💵 MATCH COST ANALYSIS:")
+    print(f"   Total Input Tokens: {grand_total_input}")
+    print(f"   Total Output Tokens: {grand_total_output}")
+    print(f"   Estimated Cost: ${total_cost:.4f}")
 
 if __name__ == "__main__":
     # --- How to run ---
     # 1. Full Refresh (run at the start of a new season/after major transfers)
-    # run_agent(skip_capture=False, skip_team_report=False)
+    run_agent(skip_capture=False, skip_team_report=False)
     
     # 2. Match Day Mode (default - only refresh opponent data)
-    run_agent(skip_capture=False, skip_team_report=True)
+    # run_agent(skip_capture=False, skip_team_report=True)
 
     # 3. Debug Mode (skip all captures, only re-run LLM logic based on existing files)
     # run_agent(skip_capture=True, skip_team_report=True)

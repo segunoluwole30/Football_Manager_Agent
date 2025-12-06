@@ -53,6 +53,9 @@ def extract_from_images():
     BATCH_SIZE = 4
     outputs = []
 
+    total_input_tokens = 0
+    total_output_tokens = 0
+
     for i in range(0, len(images), BATCH_SIZE):
         batch = images[i:i + BATCH_SIZE]
         print(f"Processing batch {i//BATCH_SIZE + 1} with {len(batch)} images...")
@@ -80,6 +83,11 @@ def extract_from_images():
             ]
         )
 
+        if response.usage:
+            total_input_tokens += response.usage.prompt_tokens
+            total_output_tokens += response.usage.completion_tokens
+
+
         # FIXED LINE
         text = response.choices[0].message.content
         outputs.append(text + "\n\n")
@@ -90,6 +98,10 @@ def extract_from_images():
         f.writelines(outputs)
 
     print(f"\nDone! Written to {OUTPUT_FILE}")
+
+    print(f"💰 BATCH COST: Input: {total_input_tokens} | Output: {total_output_tokens}")
+    return total_input_tokens, total_output_tokens
+
 
 
 if __name__ == "__main__":

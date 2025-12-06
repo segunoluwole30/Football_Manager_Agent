@@ -103,6 +103,15 @@ def summarize_team_report():
     print(f"✅ Summary written to {OUTPUT_FILE}")
     print("Done.")
 
+    # TRACK TOKENS HERE
+    input_tokens = response.usage.prompt_tokens
+    output_tokens = response.usage.completion_tokens
+
+    print(f"💰 SUMMARY COST: Input: {input_tokens} | Output: {output_tokens}")
+    
+    # Return these values so agent_main can sum them
+    return input_tokens, output_tokens
+
 
 # ------------------------------------------------------
 # Run script

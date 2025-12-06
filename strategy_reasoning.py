@@ -88,6 +88,10 @@ REMEMBER: The formation key MUST match the preset prefix (e.g. 'gp_' for 'gegenp
         ]
     )
 
+    # TRACK TOKENS HERE
+    input_tokens = response.usage.prompt_tokens
+    output_tokens = response.usage.completion_tokens
+
     content = response.choices[0].message.content
 
     try:
@@ -104,4 +108,4 @@ REMEMBER: The formation key MUST match the preset prefix (e.g. 'gp_' for 'gegenp
         else:
             raise ValueError("LLM did not produce valid JSON:\n" + content)
 
-    return plan
+    return plan, input_tokens, output_tokens
